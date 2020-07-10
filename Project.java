@@ -1,5 +1,3 @@
-/* A Modified version of my first Java Code, written for a Java Course taken on Study.com. It has been updated to make more sense than the given requirements */
-
 import java.util.Scanner; // to take input for the exam grades
 import java.util.ArrayList; // to allow for dynamic arrays to store input grades
 
